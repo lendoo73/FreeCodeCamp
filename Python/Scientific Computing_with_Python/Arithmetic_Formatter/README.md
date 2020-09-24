@@ -1,3 +1,6 @@
+# [Arithmetic Formatter](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/arithmetic-formatter)
+#### [Run on Repl](https://repl.it/@lendoo73/fcc-arithmetic-arranger#README.md)
+
 ### Assignment
 
 Students in primary school often arrange arithmetic problems vertically to make them easier to solve. For example, "235 + 52" becomes:
