@@ -1,4 +1,4 @@
-# [Arithmetic Formatter](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/budget-app)
+# [Budget App](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/budget-app)
 #### [Run on Repl](https://repl.it/@lendoo73/fcc-budget-app#README.md)
 
 ### Assignment
