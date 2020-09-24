@@ -1,4 +1,4 @@
-# [Arithmetic Formatter](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/time-calculator)
+# [Time Calculator](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/time-calculator)
 #### [Run on Repl](https://repl.it/@lendoo73/fcc-time-calculator#README.md)
 
 
