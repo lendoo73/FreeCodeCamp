@@ -30,8 +30,8 @@ class Hat:
     return result
   
   def remove_balls(self, balls):
-    for i in range(len(balls)):
-      self.contents.remove(balls[i])
+    for ball in balls:
+      self.contents.remove(ball)
     
   
   def return_balls(self, balls):
