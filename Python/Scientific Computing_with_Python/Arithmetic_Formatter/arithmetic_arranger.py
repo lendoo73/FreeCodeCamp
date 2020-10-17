@@ -95,7 +95,6 @@ def arithmetic_arranger(problems, isResult = False):
 {}"""
     return arranged_problems.format(row1, row2, separator, result)
   else:
-    arranged_problems = """{}
-{}
-{}"""
-    return arranged_problems.format(row1, row2, separator)
+    return f"""{row1}
+{row2}
+{separator}"""
