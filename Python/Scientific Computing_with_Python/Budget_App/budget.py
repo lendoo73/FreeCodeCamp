@@ -77,7 +77,7 @@ def create_spend_chart(categories):
   chart = ""
   for row in range(100, -10 , -10):
     indent = " " * (3 - len(str(row)))
-    chart += "{}{}| ".format(indent, row)
+    chart += "{indent}{row}| "
     # create bars:
     for bar in spent_percentage:
       if bar * 10 >= row:
