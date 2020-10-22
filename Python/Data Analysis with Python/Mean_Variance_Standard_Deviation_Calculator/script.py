@@ -8,7 +8,7 @@ def calculate(list):
   # convert the list into a 3 x 3 Numpy array: 
   reshape_list = np.reshape(list, (3, 3))
 
-  # get statistical data with higher order function: 
+  # get statistical data: 
   def get_stat_data(func):
     # return python list (not numpy array) using tolist()
     return [func(reshape_list, axis = 0).tolist(), func(reshape_list, axis = 1).tolist(), func(list).tolist()]
