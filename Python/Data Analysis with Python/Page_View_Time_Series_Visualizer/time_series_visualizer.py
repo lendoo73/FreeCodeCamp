@@ -34,7 +34,6 @@ def draw_line_plot():
     plt.title("Daily freeCodeCamp Forum Page Views 5/2016-12/2019", fontsize = "16")
     plt.xlabel("Date", fontsize = "16")
     plt.ylabel("Page Views", fontsize = "16")
-    #ax.set_xticks(range(1, 9))
     ax.xaxis.set_major_locator(plt.MaxNLocator(9))
 
     # Save image and return fig (don't change this part)
@@ -55,7 +54,7 @@ def draw_bar_plot():
 
     # Draw bar plot
     fig = plt.figure(figsize = (12, 10))
-    ax = sns.barplot(
+    sns.barplot(
       data = df_bar,
       x = "year",
       y = "value",
