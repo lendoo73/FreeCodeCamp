@@ -124,7 +124,8 @@ def draw_box_plot():
     plt.xlabel("Month")
     plt.ylabel("Page Views")
     locs, labels = plt.xticks()
-    plt.xticks(locs, ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"])
+    labels = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
+    plt.xticks(locs, labels)
 
     # Save image and return fig (don't change this part)
     fig.savefig('box_plot.png')
