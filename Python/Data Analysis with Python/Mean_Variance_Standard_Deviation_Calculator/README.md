@@ -45,3 +45,5 @@ We imported the tests from `test_module.py` to `main.py` for your convenience. T
 ### Submitting
 
 Copy your project's URL and submit it to freeCodeCamp.
+
+[Link to Repl](https://repl.it/@lendoo73/boilerplate-mean-variance-standard-deviation-calculator#README.md)
