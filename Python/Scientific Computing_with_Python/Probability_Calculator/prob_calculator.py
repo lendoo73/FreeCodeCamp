@@ -33,7 +33,6 @@ class Hat:
     for ball in balls:
       self.contents.remove(ball)
     
-  
   def return_balls(self, balls):
     self.contents.extend(balls)
 
