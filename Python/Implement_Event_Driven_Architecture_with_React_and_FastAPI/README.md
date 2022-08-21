@@ -1,0 +1,1 @@
+# [Implement Event-Driven Architecture with React and FastAPI](https://www.freecodecamp.org/news/implement-event-driven-architecture-with-react-and-fastapi/)
