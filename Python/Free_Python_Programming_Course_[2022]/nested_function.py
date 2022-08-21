@@ -1,0 +1,18 @@
+from ast import increment_lineno
+
+
+def counter():
+    count = 0
+
+    def increment():
+        nonlocal count
+        count += 1
+        return count
+    
+    return increment
+
+increment = counter()
+
+print(increment())
+print(increment())
+print(increment())
