@@ -179,7 +179,6 @@ class CameraGroup(pygame.sprite.Group):
             offset_pos = sprite.rect.topleft - self.offset + self.internal_offset
             self.internal_surf.blit(sprite.image, offset_pos)
 
-        print(self.zoom_scale)
         scaled_surf = pygame.transform.scale(self.internal_surf, self.internal_surface_size_vector * self.zoom_scale)
         scaled_rect = scaled_surf.get_rect(center = (self.half_w, self.half_h))
 
