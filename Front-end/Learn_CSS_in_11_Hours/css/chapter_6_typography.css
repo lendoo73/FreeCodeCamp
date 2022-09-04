@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+    padding: 25%; /* not exactly centered the content */
+    padding: 10%;
+    font-size: 2rem;
+    /* color: purple; */
+    font-family: monospace; /* each characters have equals spacing */
+    font-family: "Courier New", fantasy;
+    font-family: 'Roboto', sans-serif; /* Google fonts */
+}
+
+input, button {
+    font: inherit;
+}
+
+p {
+    /* text-decoration: underline wavy; */
+    text-transform: capitalize;
+    text-align: justify;
+    text-indent: 2em;
+    line-height: 1.5;
+    letter-spacing: 0.1em;
+    word-spacing: 0.5em;
+    font-weight: 100;
+    font-style: oblique; /* emphatised italic???*/
+}
