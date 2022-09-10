@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+body {
+    font-family: "Roboto", sans-serif;
+    font-size: 1.5rem;
+}
+
+.columns {
+    /*column-count: 4;
+    /*column-width: 250px; /* the minimum width of the columns */
+    columns: 4 250px; /* shorthand */
+    column-rule: 3px solid #333;
+    column-gap: 3rem;
+}
+
+.columns p {
+    margin-top: 0; /* fix the top alignment of the first p */
+}
+
+.columns h2 {
+    margin-top: 0;
+    background-color: #333;
+    color: #fff;
+    padding: 1rem;
+    break-inside: avoid; /* to avoid splitting the header to two pieces */
+    /*break-before: column; /* the h2 element stay on top */
+}
+
+.quote {
+    margin-top: 2rem; /* specificity issue with .columns p */
+    font-size: 3rem;
+    text-align: center;
+    color: #333;
+    column-span: all;
+}
+
+.columns .quote {
+    margin-top: 2rem; /* specificity issue resolved*/
+}
+
+.nowrap {
+    white-space: nowrap; /* no longer braking the content */
+}

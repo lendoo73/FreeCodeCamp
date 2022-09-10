@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 2rem;
+    font-family: "Roboto", sans-serif;
+}
+
+main {
+    /* background-color: aqua;
+    width: 50%; */
+}
+
+p {
+    /* background-color: lightgray; */
+    /* margin: 100px 50px; */
+}
+
+.opposite {
+    /*display: inline-block; /* not create a new line but become a block element -> can add margin and height... */
+    /* background-color: #333; */
+    /* color: whitesmoke; */
+    /*margin-top: 100px; /* we cannot to apply margin to inline elements */
+    /*height: 200px; /* same */
+    /* padding: 4rem; */
+}
+
+ul {
+    list-style-type: none;
+    padding: 0.5rem;
+    text-align: right;
+    background-color: #000;
+    margin: 0;
+}
+
+li {
+    display: inline-block;
+    margin-inline: 0.5rem; /* margin only to left and right */
+}
+
+li a {
+    color: white;
+    text-decoration: none;
+}
+
+li a:hover,
+li a:focus {
+    text-decoration: underline;
+}
