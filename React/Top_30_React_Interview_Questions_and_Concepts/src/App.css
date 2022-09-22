@@ -4,6 +4,11 @@
     padding: 0;
 }
 
+.header {
+    color: red;
+    border: 1px solid black;
+}
+
 .input-container input,
 .input-container button {
     display: block;
@@ -15,4 +20,19 @@
 
 .external {
     color: red;
+}
+
+.grid-main {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 10px;
+    margin: 10px;
+}
+
+.search {
+    width: 40%;
+    height: 30px;
+    border-radius: 5px;
+    padding: 10px;
+    outline: none;
 }
