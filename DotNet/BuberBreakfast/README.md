@@ -1,0 +1,1 @@
+# [Create an Industry Level REST API Using .NET 6](https://www.freecodecamp.org/news/create-an-industry-level-rest-api-using-net-6/)

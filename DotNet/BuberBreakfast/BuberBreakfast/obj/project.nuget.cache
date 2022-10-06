@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6bv5gWZRmXx+58ptFs4yVRlq4XltzNxLAD9BGgix4wjvsmC2SVEk6MhyXgY+tQM1MJBVA8a01PV1CVr8GEufVg==",
+  "success": true,
+  "projectFilePath": "F:\\Codes\\FreeCodeCamp\\DotNet\\BuberBreakfast\\BuberBreakfast\\BuberBreakfast.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lendo\\.nuget\\packages\\erroror\\1.0.1\\erroror.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

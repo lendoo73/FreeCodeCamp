@@ -1,0 +1,12 @@
+F:\Codes\FreeCodeCamp\DotNet\BuberBreakfast\BuberBreakfast.Contracts\bin\Debug\net6.0\BuberBreakfast.Contracts.deps.json
+F:\Codes\FreeCodeCamp\DotNet\BuberBreakfast\BuberBreakfast.Contracts\bin\Debug\net6.0\BuberBreakfast.Contracts.dll
+F:\Codes\FreeCodeCamp\DotNet\BuberBreakfast\BuberBreakfast.Contracts\bin\Debug\net6.0\BuberBreakfast.Contracts.pdb
+F:\Codes\FreeCodeCamp\DotNet\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net6.0\BuberBreakfast.Contracts.csproj.AssemblyReference.cache
+F:\Codes\FreeCodeCamp\DotNet\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net6.0\BuberBreakfast.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+F:\Codes\FreeCodeCamp\DotNet\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net6.0\BuberBreakfast.Contracts.AssemblyInfoInputs.cache
+F:\Codes\FreeCodeCamp\DotNet\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net6.0\BuberBreakfast.Contracts.AssemblyInfo.cs
+F:\Codes\FreeCodeCamp\DotNet\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net6.0\BuberBreakfast.Contracts.csproj.CoreCompileInputs.cache
+F:\Codes\FreeCodeCamp\DotNet\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net6.0\BuberBreakfast.Contracts.dll
+F:\Codes\FreeCodeCamp\DotNet\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net6.0\refint\BuberBreakfast.Contracts.dll
+F:\Codes\FreeCodeCamp\DotNet\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net6.0\BuberBreakfast.Contracts.pdb
+F:\Codes\FreeCodeCamp\DotNet\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net6.0\ref\BuberBreakfast.Contracts.dll
