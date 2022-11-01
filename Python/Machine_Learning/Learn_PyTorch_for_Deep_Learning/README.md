@@ -1,0 +1,1 @@
+[Learn PyTorch for Deep Learning – Free 26-Hour Course](https://www.freecodecamp.org/news/learn-pytorch-for-deep-learning-in-day/)
